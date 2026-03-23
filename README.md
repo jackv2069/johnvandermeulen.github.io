@@ -1,6 +1,10 @@
 # John Vandermeulen – Engineering Portfolio
 
-Mechanical Engineering graduate student specializing in thermal-fluid sciences, propulsion, and aerospace systems.
+Mechanical Engineering graduate student focused on propulsion, CFD, and thermal-fluid analysis for aerospace systems.
+
+Experience includes CFD solver development, compressible flow modeling, and three co-op rotations at Gulfstream Aerospace.
+
+---
 
 ## 📄 Portfolio
 - [Engineering Portfolio (PDF)](Portfolio_JohnVandermeulen.pdf)
@@ -11,10 +15,7 @@ Mechanical Engineering graduate student specializing in thermal-fluid sciences, 
 ## 🎓 Transcript
 - [Transcript (PDF)](JohnVandermeulen_Transcript.pdf)
 
-## Areas of Focus
-- Propulsion & Compressible Flow
-- Turbojet Cycle & Inlet Analysis
-- Heat Transfer & Thermal Systems
-- Aerospace Structures & Composites
+## ✉️ Engineering Cover Letter
+- [Cover Letter (PDF)](CoverLetter.pdf)
 
-*All work shown is academic or publicly shareable. Proprietary information has been omitted.*
+---
