@@ -19,3 +19,11 @@ Experience includes CFD solver development, compressible flow modeling, and thre
 - [Cover Letter (PDF)](CoverLetter.pdf)
 
 ---
+
+## 🚀 Featured Technical Work
+
+### Composite Pressure Vessel Design
+Optimized laminate layup using Tsai-Wu failure theory and MATLAB automation to minimize thickness while maintaining safety constraints.  
+→ [View Full Report](Composite_Pressure_Vessel_Optimization.pdf)
+
+---
